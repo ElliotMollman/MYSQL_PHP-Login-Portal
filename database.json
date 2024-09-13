@@ -1,0 +1,14 @@
+{
+    "mysqlOptions": {
+      "authProtocol": "xprotocol",
+      "enableSsl": "Disabled"
+    },
+    "previewLimit": 50,
+    "server": "127.0.0.1",
+    "port": 33060,
+    "driver": "MySQL",
+    "name": "connect",
+    "database": "users",
+    "username": "root",
+    "connectionTimeout": 9999999
+  }
